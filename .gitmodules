@@ -1,3 +1,0 @@
-[submodule "crm_truck/templates/truck_autoroad"]
-	path = crm_truck/templates/truck_autoroad
-	url = git@github.com:shadMod/django-crm-truck-autoroad.git
